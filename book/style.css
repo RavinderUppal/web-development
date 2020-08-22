@@ -1,0 +1,21 @@
+*{
+	font-family: montserrat;
+}
+
+
+footer{
+	
+	padding: 3%;
+	color: black;
+	background-color: #ca9e9f;
+}
+
+li{
+	list-style-type: none;
+}
+nav{
+	background-color: black;
+}
+#featured_books{
+	background-color: #d2dfda;
+}
